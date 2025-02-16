@@ -1,4 +1,4 @@
-Hi , I'm Elah <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
+<h1 align="center"><b>Hi , I'm Abdul Elah </b><img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="35"></h1>
 
 <!--
 **Elah2022/Elah2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
