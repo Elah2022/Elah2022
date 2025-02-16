@@ -6,7 +6,7 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Elah2022.repoName) [![GitHub followers](https://img.shields.io/github/followers/Elah2022.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Elah2022.repoName) [![GitHub followers](https://img.shields.io/github/followers/Elah2022.svg?style=social&label=Follow)](https://github.com/Elah2022?tab=followers)<br/>
 
 
 <img align="right" width=300px alt="Unicorn" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" />
