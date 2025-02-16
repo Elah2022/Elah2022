@@ -3,7 +3,7 @@
 ## Github Stats ;📊
 <br>
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=Elah&show_icons=true&theme=github_Prussian">
+<img src="https://github-readme-stats.vercel.app/api?username=Elah&show_icons=true&theme=github_prussian">
 </p>
 <hr>
 <br>
