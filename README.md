@@ -11,7 +11,7 @@
 ## Github Contribution Streak 🔥 
 <br>
 <p align='center'>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Elah2022&theme=github-dark-blue&card_height=220" alt="GitHub Streak" /></a></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Elah2022&theme=github-dark-blue&card_height=210" alt="GitHub Streak" /></a>
 <hr><br>
 <!--
 **Elah2022/Elah2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
