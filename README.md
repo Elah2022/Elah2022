@@ -9,7 +9,7 @@
 <img align="right" width=300px alt="Unicorn" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" />
 
 <br><br><br><br><br><br><br><br>
-## Github Stats 📊
+## Github Stats [📊](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e4f28204-ea88-4364-a321-8330c3fbde6a)
 <br>
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=Elah2022&show_icons=true&theme=github_dark">
