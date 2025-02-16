@@ -7,7 +7,11 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Elah2022.repoName) [![GitHub followers](https://img.shields.io/github/followers/Elah2022.svg?style=social&label=Follow)](https://github.com/Elah2022?tab=followers)<br/>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<div style="position: relative; left: 30px; top: 10px;"><h2 style="display: inline;">About me</h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="55" height="55" style="display: inline; vertical-align: middle;" /></div>
+<p align="right">
+  <font size="6">About me</font> 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="55" height="55" />
+</p>
+
 
 <img align="right" width=300px alt="Unicorn" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" />
 
