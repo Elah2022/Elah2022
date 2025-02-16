@@ -1,7 +1,11 @@
 <h1 align="center"><b>Hi , I'm Elah</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<img align="right" width=300px alt="Unicorn" src="https://tenor.com/es-419/view/忙しい-仕事-パソコン-busy-work-gif-15764410" />
+<div class="tenor-gif-embed" data-postid="15764410" data-share-method="host" data-aspect-ratio="1.18519" data-width="100%">
+  <a href="https://tenor.com/view/%E5%BF%99%E3%81%97%E3%81%84-%E4%BB%95%E4%BA%8B-%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3-busy-work-gif-15764410">忙しい 仕事 Sticker</a>
+  from <a href="https://tenor.com/search/%E5%BF%99%E3%81%97%E3%81%84-stickers">忙しい Stickers</a>
+</div>
+<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## Github Stats 📊
 <br>
