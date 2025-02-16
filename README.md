@@ -1,10 +1,7 @@
 <h1 align="center"><b>Hi , I'm Elah</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
-
+<img align="right" width=300px alt="Unicorn" src="https://tenor.com/view/%E5%BF%99%E3%81%97%E3%81%84-%E4%BB%95%E4%BA%8B-%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3-busy-work-gif-15764410" />
 
 ## Github Stats 📊
 <br>
