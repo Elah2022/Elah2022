@@ -1,9 +1,9 @@
 <h1 align="center"><b>Hi , I'm Elah</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## Github Stats ;📊
+## Github Stats 📊
 <br>
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=Elah&show_icons=true&theme=prussian">
+<img src="https://github-readme-stats.vercel.app/api?username=Elah&show_icons=true&theme=github_dark">
 </p>
 <hr>
 <br>
