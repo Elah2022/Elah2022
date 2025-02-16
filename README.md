@@ -7,7 +7,7 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Elah2022.repoName) [![GitHub followers](https://img.shields.io/github/followers/Elah2022.svg?style=social&label=Follow)](https://github.com/Elah2022?tab=followers)<br/>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h2 align="center"><b>About me</b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="50" height="50" /></h2>
+<h2 align="left"><b>About me</b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="50" height="50" /></h2>
 
 <img align="right" width=300px alt="Unicorn" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" />
 
@@ -15,7 +15,7 @@
 
 ## Github Stats <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e4f28204-ea88-4364-a321-8330c3fbde6a" alt="Stats" width="30" height="30" />
 
-<p align='left'>
+<p align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=Elah2022&show_icons=true&theme=github_dark">
 </p>
 <hr>
