@@ -15,7 +15,7 @@
 
 ## Github Stats <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e4f28204-ea88-4364-a321-8330c3fbde6a" alt="Stats" width="30" height="30" />
 
-<p align='center'>
+<p align='left'>
 <img src="https://github-readme-stats.vercel.app/api?username=Elah2022&show_icons=true&theme=github_dark">
 </p>
 <hr>
