@@ -54,8 +54,6 @@
 <hr>
 <br>
 
-<img align="left" width=300px alt="Unicorn" src="https://user-images.githubusercontent.com/74038190/216655825-c639587f-6eb0-4841-b622-9f522f55d40e.gif" />
-
 
 ## Github Contribution Streak 🔥 
 <br>
