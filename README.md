@@ -54,7 +54,6 @@
 
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=Elah2022&show_icons=true&theme=github_dark">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Elah2022&theme=github-dark-blue&border_radius=20&card_height=30)](https://git.io/streak-stats">
 </p>
 <hr>
 <br>
