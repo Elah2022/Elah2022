@@ -15,8 +15,7 @@
   I am constantly learning in the field of technology, always seeking to expand my knowledge and skills in software development.    
   I am capable of working in a team, maintaining good communication, and adapting to required needs.    
   - 👾I’m currently learning:
-    - Nest.js  
-    - Angular  
+    - JavaScript    
   - 👾I like playing video games, watching series, cartoons, especially The Simpsons, science fiction, post-apocalypse, and period dramas.
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
