@@ -18,7 +18,7 @@
 
 <h2 align="left">My Skills </b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="tools" width="40" height="40" </h2>
 
-<h2 align="left">Languages </b> </h2>
+<h3 align="left">Languages </b> </h3>
 
 <br>
 
