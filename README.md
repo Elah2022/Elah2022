@@ -13,10 +13,10 @@
 
 <br><br><br><br><br><br><br><br><br><br>
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+
 <h2 align="left">My Skills</h2>
-
- <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" alt="parrot">
-
 
 ## Github Stats <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e4f28204-ea88-4364-a321-8330c3fbde6a" alt="Stats" width="30" height="30" />
 
