@@ -15,6 +15,9 @@
 
 <h2 align="left">My Skills</h2>
 
+ <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" alt="parrot" width="50" height="50">
+
+
 ## Github Stats <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e4f28204-ea88-4364-a321-8330c3fbde6a" alt="Stats" width="30" height="30" />
 
 <p align='center'>
