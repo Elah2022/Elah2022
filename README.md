@@ -61,7 +61,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-## Github Contribution Streak 🔥 
+## Github Contribution Streak <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Streak" width="30" height="30" />
 <br>
 <p align='center'>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Elah2022&theme=github-dark-blue&card_width=460&card_height=200" alt="GitHub Streak" /></a>
