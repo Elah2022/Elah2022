@@ -64,5 +64,5 @@
 ## Github Contribution Streak <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Streak" width="30" height="30" />
 <br>
 <p align='center'>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Elah2022&theme=github-dark-blue&card_width=460&card_height=200" alt="GitHub Streak" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Elah2022&theme=github-dark-blue&card_width=460&card_height=200" alt="GitHub Streak" />
 <hr><br>
