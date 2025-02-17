@@ -16,8 +16,6 @@ I am capable of working in a team, maintaining good communication, and adapting 
 - 👾I’m currently learning ...
   - Nest.js
   - Angular
-<img align="right" width=300px alt="Unicorn" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" />
-
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2 align="left">My Skills<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="tools" width="40" height="40" </h2>
