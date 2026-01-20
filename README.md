@@ -38,14 +38,6 @@ Integration of AI, real-time features, in-app payments, and scalable architectur
 🎓 Education: Systems Engineering (in progress) — Universidad del Valle
 </p>
 
-
-I enjoy designing systems that:
-- Observe user behavior
-- Make intelligent decisions
-- Intervene only when necessary
-
-I’m especially interested in **AI-assisted tools**, **productivity systems**, and **human-centered software**.
-
 **Fun facts**
 - 🎮 I love video games  
 - 📺 Series, cartoons (especially *The Simpsons*)  
@@ -70,7 +62,7 @@ Instead of acting like a chatbot, the AI:
 
 **Tech stack**
 - Flutter · Firebase · Riverpod  
-- OpenAI API (GPT-4o Mini)  
+- OpenAI API  
 - Empathy-focused prompt engineering  
 
 🔗 *Play Store link coming soon*
