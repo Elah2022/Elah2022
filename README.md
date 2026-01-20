@@ -34,11 +34,10 @@ I developed multiple desktop programs focused on process control, automation, us
 I developed DuoMind: End-to-end development of a cross-platform mobile application using Flutter and Firebase.
 Integration of AI, real-time features, in-app payments, and scalable architecture with Riverpod.
 
-<h2 align="left">🎓 Education</h2>
 <p>
-  <strong>Systems Engineering</strong> — in progress<br>
-  Universidad del Valle
+🎓 Education: Systems Engineering (in progress) — Universidad del Valle
 </p>
+
 
 I enjoy designing systems that:
 - Observe user behavior
