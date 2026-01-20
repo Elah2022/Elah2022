@@ -29,6 +29,8 @@ mobile, applied to educational and productivity-focused solutions.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuela-riascos-890a5a255/)
 
+I have developed multiple desktop programs focused on process control, automation, usage restriction, and user behavior monitoring, including tools that enforce mandatory workflows, validate actions, and prevent unauthorized or unintended use. I have also worked on automation and scrapers, focused on data extraction, processing, and validation.
+
 
 I enjoy designing systems that:
 - Observe user behavior
