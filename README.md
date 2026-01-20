@@ -48,7 +48,7 @@ I develop software that interacts directly with the operating system, manages pr
   <b>Featured Projects</b> 🚀
 </h2>
 
-<h3>💬 DuoMind — AI-Assisted Communication App</h3>
+<h3> DuoMind — AI-Assisted Communication App</h3>
 
 Cross-platform mobile application designed to help couples improve communication using AI assistance.
 
@@ -60,7 +60,7 @@ Cross-platform mobile application designed to help couples improve communication
 
 <b>Tech stack</b>
 - Flutter · Firebase · Firestore · Riverpod  
-- Firebase Cloud Functions (Node.js)  
+- Firebase Cloud Functions  
 - Azure OpenAI API  
 - Google Play Billing  
 
