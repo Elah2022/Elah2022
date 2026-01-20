@@ -24,21 +24,21 @@
 
 <img align="right" width="300px" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5"/>
 
-Indie Developer focused on building **real, functional systems** across **desktop and mobile**, applied to **productivity, control, and educational solutions**.
+Indie Developer focused on building <b>real, functional systems</b> across <b>desktop and mobile</b>, applied to <b>productivity, control, and educational solutions</b>.
 
 I develop software that interacts directly with the operating system, manages processes, enforces workflows, and integrates real-time services and AI.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuela-riascos-890a5a255/)
 
-- Desktop applications focused on **process control, automation, usage restriction and security**
-- Mobile applications with **real-time features, AI integration, subscriptions and scalable architecture**
+- Desktop applications focused on <b>process control, automation, usage restriction and security</b>
+- Mobile applications with <b>real-time features, AI integration, subscriptions and scalable architecture</b>
 - End-to-end ownership: architecture, implementation, deployment and maintenance
 
-🎓 **Education**: Systems Engineering (in progress) — Universidad del Valle
+🎓 <b>Education</b>: Systems Engineering (in progress) — Universidad del Valle
 
-**Fun facts**
-- 🎮 Video games
-- 📺 Series & cartoons (*The Simpsons*)
+<b>Fun facts</b>
+- 🎮 Video games  
+- 📺 Series & cartoons (*The Simpsons*)  
 - 🧟‍♀️ Sci-fi, post-apocalypse & period dramas  
 
 <a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -58,8 +58,9 @@ Cross-platform mobile application designed to help couples improve communication
 - Subscriptions and premium features  
 - Push and local notifications  
 
-**Tech stack**
-- Flutter · Firebase · Riverpod  
+<b>Tech stack</b>
+- Flutter · Firebase · Firestore · Riverpod  
+- Firebase Cloud Functions (Node.js)  
 - Azure OpenAI API  
 - Google Play Billing  
 
@@ -69,7 +70,7 @@ Cross-platform mobile application designed to help couples improve communication
 
 <h3>🎯 System Focus Manager</h3>
 
-Desktop productivity system designed to **enforce focus at OS and browser level**.
+Desktop productivity system designed to <b>enforce focus at OS and browser level</b>.
 
 - Application and website blocking  
 - Focus & Ultra-Focus modes  
@@ -78,9 +79,9 @@ Desktop productivity system designed to **enforce focus at OS and browser level*
 - Process monitoring and control  
 - Activity logging and configuration persistence  
 
-**Built with**
+<b>Built with</b>
 - Python  
-- System-level process control  
+- System-level process control (Windows APIs)  
 - Browser automation  
 
 <a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -109,14 +110,23 @@ Desktop productivity system designed to **enforce focus at OS and browser level*
 <h3>☁️ Backend & Cloud</h3>
 <span>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
   <img src="https://img.shields.io/badge/Cloud_Functions-FF6F00?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge">
 </span>
 
 <h3>🤖 Artificial Intelligence</h3>
 <span>
   <img src="https://img.shields.io/badge/Azure_OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Applied_NLP-6A5ACD?style=for-the-badge">
   <img src="https://img.shields.io/badge/GPT_Integration-10A37F?style=for-the-badge&logo=openai&logoColor=white">
+</span>
+
+<h3>🧪 Automation & Scraping</h3>
+<span>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white">
 </span>
 
 <h3>🔔 Notifications & Payments</h3>
