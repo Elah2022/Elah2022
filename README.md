@@ -24,24 +24,22 @@
 
 <img align="right" width="300px" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5"/>
 
-Indie Developer focused on building real, functional systems across desktop ans
-mobile, applied to educational and productivity-focused solutions.
+Indie Developer focused on building **real, functional systems** across **desktop and mobile**, applied to **productivity, control, and educational solutions**.
+
+I develop software that interacts directly with the operating system, manages processes, enforces workflows, and integrates real-time services and AI.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuela-riascos-890a5a255/)
 
-I developed multiple desktop programs focused on process control, automation, usage restriction, and user behavior monitoring, including tools that enforce mandatory workflows, validate actions, and prevent unauthorized or unintended use. I have also worked on automation and scrapers, focused on data extraction, processing, and validation.
+- Desktop applications focused on **process control, automation, usage restriction and security**
+- Mobile applications with **real-time features, AI integration, subscriptions and scalable architecture**
+- End-to-end ownership: architecture, implementation, deployment and maintenance
 
-I developed DuoMind: End-to-end development of a cross-platform mobile application using Flutter and Firebase.
-Integration of AI, real-time features, in-app payments, and scalable architecture with Riverpod.
-
-<p>
-🎓 Education: Systems Engineering (in progress) — Universidad del Valle
-</p>
+🎓 **Education**: Systems Engineering (in progress) — Universidad del Valle
 
 **Fun facts**
-- 🎮 I love video games  
-- 📺 Series, cartoons (especially *The Simpsons*)  
-- 🧟‍♀️ Sci-fi, post-apocalypse & period dramas  
+- 🎮 Video games
+- 📺 Series & cartoons (*The Simpsons*)
+- 🧟‍♀️ Sci-fi, post-apocalypse & period dramas
 
 <a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -52,18 +50,18 @@ Integration of AI, real-time features, in-app payments, and scalable architectur
 
 <h3>💬 DuoMind — AI-Assisted Communication App</h3>
 
-DuoMind is an AI-powered chat application designed to help couples improve communication.
+Cross-platform mobile application designed to help couples improve communication using AI assistance.
 
-Instead of acting like a chatbot, the AI:
-- Monitors conversations in real time  
-- Detects emotional escalation  
-- Intervenes calmly when needed  
-- Guides healthier dialogue  
+- Real-time chat with AI-assisted interventions  
+- Emotional escalation detection  
+- AI-generated insights and recommendations  
+- Subscriptions and premium features  
+- Push and local notifications  
 
 **Tech stack**
 - Flutter · Firebase · Riverpod  
-- OpenAI API  
-- Empathy-focused prompt engineering  
+- Azure OpenAI API  
+- Google Play Billing  
 
 [![Google Play](https://img.shields.io/badge/Google%20Play-0A66C2?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.duomind.psicoloapp)
 
@@ -71,21 +69,19 @@ Instead of acting like a chatbot, the AI:
 
 <h3>🎯 System Focus Manager</h3>
 
-A productivity system designed to **enforce focus modes at OS and browser level**.
+Desktop productivity system designed to **enforce focus at OS and browser level**.
 
-Features include:
-- Focus & Ultra Focus modes  
-- App and tab restriction  
+- Application and website blocking  
+- Focus & Ultra-Focus modes  
 - Anti-bypass protection  
-- PIN-protected parental / supervisor control  
-- Activity logging and security audits  
+- System shortcut restriction  
+- Process monitoring and control  
+- Activity logging and configuration persistence  
 
-Built with:
+**Built with**
 - Python  
-- Browser automation  
 - System-level process control  
-
----
+- Browser automation  
 
 <a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -95,20 +91,52 @@ Built with:
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="35" />
 </h2>
 
-<h3>Languages</h3>
+<h3>🧠 Languages</h3>
 <span>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </span>
 
-<h3>Tools & Technologies</h3>
+<h3>📱 Mobile & Desktop Development</h3>
 <span>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white">
+  <img src="https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows_API-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+</span>
+
+<h3>☁️ Backend & Cloud</h3>
+<span>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+  <img src="https://img.shields.io/badge/Cloud_Functions-FF6F00?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge">
+</span>
+
+<h3>🤖 Artificial Intelligence</h3>
+<span>
+  <img src="https://img.shields.io/badge/Azure_OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/GPT_Integration-10A37F?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge">
+</span>
+
+<h3>🔔 Notifications & Payments</h3>
+<span>
+  <img src="https://img.shields.io/badge/FCM-FF9800?style=for-the-badge&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/In_App_Purchases-34A853?style=for-the-badge&logo=google-play&logoColor=white">
+  <img src="https://img.shields.io/badge/Subscriptions-4285F4?style=for-the-badge&logo=google-play&logoColor=white">
+</span>
+
+<h3>🛠 Tools</h3>
+<span>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase_CLI-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+  <img src="https://img.shields.io/badge/Flutter_CLI-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/PyInstaller-2C2C2C?style=for-the-badge">
 </span>
 
 <a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
