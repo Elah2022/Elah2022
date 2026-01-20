@@ -27,7 +27,8 @@
 Indie Developer focused on building real, functional systems across desktop ans
 mobile, applied to educational and productivity-focused solutions.
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuela-riascos-890a5a255/)
+
 
 I enjoy designing systems that:
 - Observe user behavior
