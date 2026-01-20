@@ -118,21 +118,17 @@ Desktop productivity system designed to **enforce focus at OS and browser level*
 <span>
   <img src="https://img.shields.io/badge/Azure_OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/GPT_Integration-10A37F?style=for-the-badge&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge">
 </span>
 
 <h3>🔔 Notifications & Payments</h3>
 <span>
   <img src="https://img.shields.io/badge/FCM-FF9800?style=for-the-badge&logo=firebase&logoColor=white">
-  <img src="https://img.shields.io/badge/In_App_Purchases-34A853?style=for-the-badge&logo=google-play&logoColor=white">
   <img src="https://img.shields.io/badge/Subscriptions-4285F4?style=for-the-badge&logo=google-play&logoColor=white">
 </span>
 
 <h3>🛠 Tools</h3>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase_CLI-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
   <img src="https://img.shields.io/badge/Flutter_CLI-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/PyInstaller-2C2C2C?style=for-the-badge">
