@@ -27,16 +27,7 @@
 Indie Developer focused on building real, functional systems across desktop ans
 mobile, applied to educational and productivity-focused solutions.
 
-<p align="center">
-  <a href="https://github.com/Elah2022" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/000000" width="30" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/manuela-riascos-890a5a255/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" alt="LinkedIn"/>
-  </a>
-</p>
-
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 I enjoy designing systems that:
 - Observe user behavior
