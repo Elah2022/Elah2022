@@ -32,7 +32,13 @@ mobile, applied to educational and productivity-focused solutions.
 I developed multiple desktop programs focused on process control, automation, usage restriction, and user behavior monitoring, including tools that enforce mandatory workflows, validate actions, and prevent unauthorized or unintended use. I have also worked on automation and scrapers, focused on data extraction, processing, and validation.
 
 I developed DuoMind: End-to-end development of a cross-platform mobile application using Flutter and Firebase.
-Integration of AI, real-time features, in-app payments, and scalable architecture with Riverpod
+Integration of AI, real-time features, in-app payments, and scalable architecture with Riverpod.
+
+<h2 align="left">🎓 Education</h2>
+<p>
+  <strong>Systems Engineering</strong> — in progress<br>
+  Universidad del Valle
+</p>
 
 I enjoy designing systems that:
 - Observe user behavior
