@@ -110,7 +110,6 @@ Desktop productivity system designed to **enforce focus at OS and browser level*
 <span>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
   <img src="https://img.shields.io/badge/Cloud_Functions-FF6F00?style=for-the-badge&logo=firebase&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge">
 </span>
 
