@@ -112,14 +112,12 @@ Desktop productivity system designed to <b>enforce focus at OS and browser level
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
   <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
   <img src="https://img.shields.io/badge/Cloud_Functions-FF6F00?style=for-the-badge&logo=firebase&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge">
 </span>
 
 <h3>🤖 Artificial Intelligence</h3>
 <span>
   <img src="https://img.shields.io/badge/Azure_OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/Applied_NLP-6A5ACD?style=for-the-badge">
   <img src="https://img.shields.io/badge/GPT_Integration-10A37F?style=for-the-badge&logo=openai&logoColor=white">
 </span>
 
