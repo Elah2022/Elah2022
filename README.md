@@ -65,7 +65,7 @@ Instead of acting like a chatbot, the AI:
 - OpenAI API  
 - Empathy-focused prompt engineering  
 
-[![Google Play](https://img.shields.io/badge/Google%20Play-View%20App-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.duomind.psicoloapp)
+[![Google Play](https://img.shields.io/badge/Google%20Play-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.duomind.psicoloapp)
 
 ---
 
