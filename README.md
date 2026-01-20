@@ -81,7 +81,7 @@ Desktop productivity system designed to <b>enforce focus at OS and browser level
 
 <b>Built with</b>
 - Python  
-- System-level process control (Windows APIs)  
+- System-level process control 
 - Browser automation  
 
 <a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
