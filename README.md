@@ -24,9 +24,7 @@
 
 <img align="right" width="300px" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5"/>
 
-Indie Developer focused on building <b>real, functional systems</b> across <b>desktop and mobile</b>, applied to <b>productivity, control, and educational solutions</b>.
-
-I develop software that interacts directly with the operating system, manages processes, enforces workflows, and integrates real-time services and AI.
+Full-stack developer building real systems from scratch. Published app on Google Play (DuoMind), 20+ module hospital system with IoT integration, and 3 years of freelance experience. Specialized in Flutter, Python, Django, Firebase, and Azure OpenAI.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuela-riascos-890a5a255/)
 
