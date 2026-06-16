@@ -27,17 +27,18 @@
 Full-stack developer building real systems from scratch. Published app on Google Play (DuoMind), 20+ module hospital system with IoT integration, and 3 years of freelance experience. Specialized in Flutter, Python, Django, Firebase, and Azure OpenAI.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuela-riascos-890a5a255/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://manuelariascos.vercel.app/)
 
-- Desktop applications focused on <b>process control, automation, usage restriction and security</b>
-- Mobile applications with <b>real-time features, AI integration, subscriptions and scalable architecture</b>
+- Desktop applications focused on **process control, automation, usage restriction and security**
+- Mobile applications with **real-time features, AI integration, subscriptions and scalable architecture**
 - End-to-end ownership: architecture, implementation, deployment and maintenance
 
-🎓 <b>Education</b>: Systems Engineering (in progress) — Universidad del Valle
+🎓 **Education**: Tecnología en Sistemas de Información — Universidad Antonio José Camacho *(2026 – present)*
 
-<b>Fun facts</b>
-- 🎮 Video games  
-- 📺 Series & cartoons (*The Simpsons*)  
-- 🧟‍♀️ Sci-fi, post-apocalypse & period dramas  
+**Fun facts**
+- 🎮 Video games
+- 📺 Series & cartoons (*The Simpsons*)
+- 🧟‍♀️ Sci-fi, post-apocalypse & period dramas
 
 <a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
