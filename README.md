@@ -43,9 +43,6 @@ Full-stack developer building real systems from scratch. Published app on Google
 <a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <!-- Professional Experience -->
-<h2 align="left">
-  <b>Professional Experience</b> 🚀
-</h2> 
 
 ## 💼 Professional Experience
 
@@ -57,7 +54,6 @@ Designed and developed the corporate website including product catalog, contact 
 
 **La Buena Cosecha** — Freelance Software Developer *(Jan 2023 – Jul 2023)*
 Built an inventory and sales management system replacing manual processes, with stock alerts and a client/supplier module.
-Breve, limpio y con la misma estructura del ejemplo que me pasaste. ¿Lo pongo en el
 
 <!-- FEATURED PROJECTS -->
 <h2 align="left">
