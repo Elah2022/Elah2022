@@ -46,13 +46,13 @@ Full-stack developer building real systems from scratch. Published app on Google
 
 ## 💼 Professional Experience
 
-**Parasite** — Software Developer *(Aug 2025 – Dec 2025)*
+**Parasite** — Software Developer
 Built a web app for order management and product catalog, with an admin panel for production flow, inventory and sales reports.
 
-**Vinos Doña Bella** — Web Developer *(Jan 2023 – Jun 2025)*
+**Vinos Doña Bella** — Web Developer
 Designed and developed the corporate website including product catalog, contact section and online order form.
 
-**La Buena Cosecha** — Freelance Software Developer *(Jan 2023 – Jul 2023)*
+**La Buena Cosecha** — Freelance Software Developer
 Built an inventory and sales management system replacing manual processes, with stock alerts and a client/supplier module.
 
 <!-- FEATURED PROJECTS -->
