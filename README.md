@@ -85,6 +85,32 @@ Desktop productivity system designed to <b>enforce focus at OS and browser level
 
 <a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+### 🏥 Sistema de Gestión Hospitalaria Integral (HIS/ERP)
+
+Full-stack hospital management platform built end-to-end: web panels for all hospital roles, mobile app for patients and staff, and real-time IoT integration with physical devices.
+
+**100% functional — not a mockup. Live demo available.**
+
+🌐 **Demo:** [hospital-lsuu.onrender.com](https://hospital-lsuu.onrender.com) · User: `mateo` · Password: `12345678`
+
+**What it covers:**
+- 10+ specialized web interfaces by role: admin, doctors (floor / surgery / outpatient), nurses (head / clinical / reception), pharmacy, lab technologists, radiology, bacteriologists, radiologists
+- Granular RBAC permission system — each role sees only what their position allows
+- Real-time features: internal chat (individual, group and by department), push notifications, patient crisis alerts, shift screens, appointment requests
+- Full patient lifecycle: admission, clinical history (EHR), hospitalization, appointments, lab orders, diagnostic imaging, pharmacy, billing, surgery, discharge
+- IoT integration: live heart rate and SpO₂ via ESP32 + MAX30102, real-time ECG via ESP32 + AD8232
+- Patient mobile app: appointments, active prescriptions, lab results, turn queue, doctor ratings, surveys
+- Staff mobile app: care plans, patient notes, crisis panic button, nurse shift handover
+- Turn management system: kiosk → waiting screen → reception → doctor, with real-time TV display
+- Nurse shift handover module with per-patient notes and care plan review
+
+**Tech stack**
+- Python · Django · Django REST Framework · PostgreSQL
+- React Native · Expo · JavaScript
+- ESP32 · C/C++ · Arduino · MAX30102 · AD8232
+- WebSockets · Firebase Cloud Messaging
+- Render · Neon · Cloudflare R2 · EAS Build
+
 <!-- SKILLS -->
 <h2 align="left">
   <b>My Skills</b>
