@@ -157,6 +157,8 @@ Full-stack hospital management platform built end-to-end: web panels for all hos
   <img src="https://img.shields.io/badge/Cloud_Functions-FF6F00?style=for-the-badge&logo=firebase&logoColor=white">
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge">
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 </span>
 
 <h3>🤖 Artificial Intelligence</h3>
